@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcel Junior, tenho 21 anos e sou natural de Curitiba - Pr. Estou atualmente cursando Engenharia de software.
+Me chamo Marcel Junior, tenho 21 anos e sou natural de Curitiba - Pr. Estou atualmente cursando Engenharia de software na Univercidade Positivo.
 
 <p align="left">
     <a href="">
